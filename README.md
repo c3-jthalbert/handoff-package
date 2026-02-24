@@ -5,7 +5,7 @@ A Claude Code plugin that packages session work into portable handoff artifacts.
 ## Installation
 
 ```
-/plugin install jthalbert/handoff-package
+/plugin install c3-jthalbert/handoff-package
 ```
 
 ## Usage
