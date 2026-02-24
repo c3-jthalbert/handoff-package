@@ -1,6 +1,0 @@
-{
-  "name": "handoff-package",
-  "author": "JT Halbert",
-  "version": "1.0.0",
-  "description": "Packages session work as portable handoff artifacts for other Claude users. Creates self-contained folders with context-loading prompts, deliverables, and sanitization warnings so a recipient can cold-start their own Claude session with full context."
-}
