@@ -2,7 +2,7 @@
 
 > *In Iain M. Banks' Culture novels, a mind-state is a complete copy of a consciousness — memories, reasoning, personality, the whole thing — packaged into a form that can be transmitted, stored, and loaded into a new substrate. In The Hydrogen Sonata, QiRia gives Cossont a copy of his mind-state for safekeeping. In Look to Windward, a dead admiral's entire personality is loaded into a device in someone else's skull so they can collaborate. The consciousness is portable. The context survives the transfer.*
 
-This is a skill for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) that does something similar for working sessions. When you build up analysis, research, or structured work in a Claude session, that work lives only in your session's context. This skill packages it into a self-contained folder that someone else can drop into their own Claude session and immediately have full context — queryable, extendable, ready to continue.
+This is a skill for Claude that does something similar for working sessions. When you build up analysis, research, or structured work in a Claude session, that work lives only in your session's context. This skill packages it into a self-contained folder that someone else can drop into their own Claude session and immediately have full context — queryable, extendable, ready to continue.
 
 ## Two Modes
 
@@ -18,7 +18,7 @@ Open Terminal and paste this:
 curl -sL https://raw.githubusercontent.com/c3-jthalbert/handoff-package/main/install.sh | bash
 ```
 
-The skill will be available the next time you start a Claude Code session.
+The skill will be available the next time you start a Claude session.
 
 ## Usage
 

@@ -8,4 +8,4 @@ mkdir -p "$SKILL_DIR"
 curl -sL "$SKILL_URL" -o "$SKILL_DIR/SKILL.md"
 
 echo "Installed handoff-package skill to $SKILL_DIR/SKILL.md"
-echo "It will be available in your next Claude Code session."
+echo "It will be available in your next Claude session."
